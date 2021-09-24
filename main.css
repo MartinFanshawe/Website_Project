@@ -1,0 +1,20 @@
+button { 
+    box-sizing: border-box; 
+    padding: 25px 50px 75px 100px; 
+}
+body { 
+    background-color: rgba(42, 45, 48); 
+} 
+p {font-size:12px;}
+
+p, h1 {
+    color: whitesmoke;
+}
+#map {
+    width: 400px;
+    height: auto;
+}
+#map:hover {
+    width: 800px;
+    height: auto;
+}
